@@ -4,7 +4,9 @@
   Inventory Turnover Ratio, Safety Stock Levels, Reorder Level, Stock Status using DAX and Power
   Query feature of Power BI and represented the dataset through insightful visualizations.
   
-### Insights
+  ![alt text](dashboard.jpg)
+  
+## Insights
 - The overall inventory turnover ratio is 5.36.
 - The current value in warehouse is $77.3 M.
 - Out of the 303 SKUs 272 SKUs are required to re-order.
